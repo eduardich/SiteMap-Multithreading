@@ -25,4 +25,5 @@
 			https://lenta.ru/rubrics/sport/other/2/
 		https://lenta.ru/rubrics/sport/auto/
 			https://lenta.ru/rubrics/sport/auto/2/
+   ...
 ```

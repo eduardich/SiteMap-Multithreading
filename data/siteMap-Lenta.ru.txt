@@ -1,5 +1,8 @@
 https://lenta.ru/
-	https://lenta.ru/news/2022/09/12/spadanet/
+	https://lenta.ru/news/2022/09/14/ekatt/
+	https://lenta.ru/news/2022/09/14/dpl/
+	https://lenta.ru/news/2022/09/13/garantukr/
+	https://lenta.ru/news/2022/09/14/terror/
 	https://lenta.ru/rubrics/sport/
 		https://lenta.ru/rubrics/sport/other/
 			https://lenta.ru/rubrics/sport/other/2/
@@ -17,13 +20,19 @@ https://lenta.ru/
 			https://lenta.ru/rubrics/sport/boxing/2/
 		https://lenta.ru/rubrics/sport/english/
 			https://lenta.ru/rubrics/sport/english/2/
-	https://lenta.ru/news/2022/09/12/greenbuilt/
-	https://lenta.ru/news/2022/09/12/mtwelve/
-	https://lenta.ru/news/2022/09/12/espana/
-	https://lenta.ru/news/2022/09/12/childbirth/
-	https://lenta.ru/news/2022/09/12/pechorin_alko/
-	https://lenta.ru/news/2022/09/12/sdvigi_un/
-	https://lenta.ru/news/2022/09/12/trenirovki/
+	https://lenta.ru/news/2022/09/14/def/
+	https://lenta.ru/news/2022/09/14/alko/
+	https://lenta.ru/news/2022/09/14/noch/
+	https://lenta.ru/news/2022/09/14/opasno/
+	https://lenta.ru/articles/2022/09/14/history_of_women_boxing/
+	https://lenta.ru/news/2022/09/14/tri/
+	https://lenta.ru/news/2022/09/14/pobyvanec/
+	https://lenta.ru/news/2022/09/14/priezhh/
+	https://lenta.ru/news/2022/09/14/micro/
+	https://lenta.ru/news/2022/09/15/2023god/
+	https://lenta.ru/news/2022/09/14/holod/
+	https://lenta.ru/news/2022/09/14/artemovsk/
+	https://lenta.ru/news/2022/09/14/evrokomissiya/
 	https://lenta.ru/rubrics/ussr/
 		https://lenta.ru/rubrics/ussr/moldova/
 			https://lenta.ru/rubrics/ussr/moldova/2/
@@ -37,7 +46,12 @@ https://lenta.ru/
 			https://lenta.ru/rubrics/ussr/middle_asia/2/
 		https://lenta.ru/rubrics/ussr/belarus/
 			https://lenta.ru/rubrics/ussr/belarus/2/
-	https://lenta.ru/news/2022/09/12/vzryvy_rostov/
+	https://lenta.ru/news/2022/09/14/peresild_msc/
+	https://lenta.ru/articles/2022/09/13/priboy/
+	https://lenta.ru/news/2022/09/14/8942/
+	https://lenta.ru/news/2022/09/14/unina/
+	https://lenta.ru/news/2022/09/14/asmus_otmena/
+	https://lenta.ru/articles/2022/09/14/nyfwfall/
 	https://lenta.ru/rubrics/wellness/
 		https://lenta.ru/rubrics/wellness/relationships/
 			https://lenta.ru/rubrics/wellness/relationships/2/
@@ -56,20 +70,14 @@ https://lenta.ru/
 		https://lenta.ru/specprojects/noncommercial/
 			https://lenta.ru/specprojects/noncommercial/2/
 		https://lenta.ru/specprojects/commercial/
-	https://lenta.ru/news/2022/09/12/moseykin/
-	https://lenta.ru/news/2022/09/12/ukraineserbia/
-	https://lenta.ru/news/2022/09/12/gas/
-	https://lenta.ru/news/2022/09/12/svyazinet/
-	https://lenta.ru/news/2022/09/12/vse_rabotaet/
-	https://lenta.ru/news/2022/09/12/himars/
-	https://lenta.ru/news/2022/09/12/sbrosit/
-	https://lenta.ru/news/2022/09/12/glavv/
-	https://lenta.ru/news/2022/09/12/moseikinn/
-	https://lenta.ru/news/2022/09/11/vybory2022/
-	https://lenta.ru/articles/2022/09/09/loveandthunder/
-	https://lenta.ru/news/2022/09/12/rublev/
+	https://lenta.ru/news/2022/09/14/laskalt/
+	https://lenta.ru/news/2022/09/14/podrobnosti/
+	https://lenta.ru/news/2022/09/14/mass_leaks/
+	https://lenta.ru/news/2022/09/14/coviddd/
+	https://lenta.ru/news/2022/09/14/aliskerov/
+	https://lenta.ru/news/2022/09/14/astana/
 	https://lenta.ru/articles/2022/09/09/charles_the_third/
-	https://lenta.ru/news/2022/09/12/kalmanovich/
+	https://lenta.ru/news/2022/09/14/draka/
 	https://lenta.ru/rubrics/culture/
 		https://lenta.ru/rubrics/culture/books/
 			https://lenta.ru/rubrics/culture/books/2/
@@ -85,13 +93,11 @@ https://lenta.ru/
 			https://lenta.ru/rubrics/culture/music/2/
 		https://lenta.ru/rubrics/culture/kino/
 			https://lenta.ru/rubrics/culture/kino/2/
-	https://lenta.ru/news/2022/09/12/106yo/
-	https://lenta.ru/news/2022/09/12/ukrainbridge/
-	https://lenta.ru/articles/2022/09/10/see/
-	https://lenta.ru/news/2022/09/12/marine/
+	https://lenta.ru/news/2022/09/14/laboratori/
+	https://lenta.ru/news/2022/09/14/oil_down/
 	https://lenta.ru/articles/2022/09/12/mexico/
-	https://lenta.ru/news/2022/09/12/chap/
-	https://lenta.ru/news/2022/09/12/zelensky_/
+	https://lenta.ru/news/2022/09/14/flat/
+	https://lenta.ru/news/2022/09/14/odkb/
 	https://lenta.ru/rubrics/life/
 		https://lenta.ru/rubrics/life/animals/
 			https://lenta.ru/rubrics/life/animals/2/
@@ -107,12 +113,15 @@ https://lenta.ru/
 			https://lenta.ru/rubrics/life/accident/2/
 		https://lenta.ru/rubrics/life/people/
 			https://lenta.ru/rubrics/life/people/2/
-	https://lenta.ru/news/2022/09/12/ohrannaya_zona/
+	https://lenta.ru/articles/2022/09/13/issa/
+	https://lenta.ru/news/2022/09/14/fin/
 	https://lenta.ru/parts/news/
 		https://lenta.ru/parts/news/2/
-	https://lenta.ru/news/2022/09/12/ekstrprol/
+	https://lenta.ru/news/2022/09/14/foodshare/
+	https://lenta.ru/news/2022/09/14/kirkorov_greh/
 	https://lenta.ru/articles/2022/09/11/ufc279_itog/
-	https://lenta.ru/news/2022/09/12/pechorin/
+	https://lenta.ru/news/2022/09/14/peskovsvo/
+	https://lenta.ru/news/2022/09/14/mir_dogovor/
 	https://lenta.ru/rubrics/world/
 		https://lenta.ru/rubrics/world/politic/
 			https://lenta.ru/rubrics/world/politic/2/
@@ -124,9 +133,9 @@ https://lenta.ru/
 			https://lenta.ru/rubrics/world/society/2/
 		https://lenta.ru/rubrics/world/conflict/
 			https://lenta.ru/rubrics/world/conflict/2/
-	https://lenta.ru/news/2022/09/12/kremlgaz/
-	https://lenta.ru/articles/2022/09/05/flighthacks/
-	https://lenta.ru/news/2022/09/12/urall/
+	https://lenta.ru/news/2022/09/14/rusalka_comment/
+	https://lenta.ru/news/2022/09/14/otbilcya/
+	https://lenta.ru/news/2022/09/14/shturm_limana/
 	https://lenta.ru/rubrics/realty/
 		https://lenta.ru/rubrics/realty/region/
 			https://lenta.ru/rubrics/realty/region/2/
@@ -138,13 +147,10 @@ https://lenta.ru/
 			https://lenta.ru/rubrics/realty/home/2/
 		https://lenta.ru/rubrics/realty/climate/
 			https://lenta.ru/rubrics/realty/climate/2/
-	https://lenta.ru/news/2022/09/12/gospp/
-	https://lenta.ru/news/2022/09/12/us_fear/
+	https://lenta.ru/news/2022/09/14/sungorkin_primorie/
+	https://lenta.ru/news/2022/09/14/s7/
 	https://lenta.ru/specprojects/editor_choice/
 		https://lenta.ru/specprojects/editor_choice/2/
-	https://lenta.ru/articles/2022/09/11/vegetarian/
-	https://lenta.ru/news/2022/09/12/ida/
-	https://lenta.ru/articles/2022/09/04/joplin/
 	https://lenta.ru/rubrics/style/
 		https://lenta.ru/rubrics/style/phenomenon/
 			https://lenta.ru/rubrics/style/phenomenon/2/
@@ -156,27 +162,30 @@ https://lenta.ru/
 			https://lenta.ru/rubrics/style/exterior/2/
 		https://lenta.ru/rubrics/style/personality/
 			https://lenta.ru/rubrics/style/personality/2/
+	https://lenta.ru/news/2022/09/14/loboda_otmena/
+	https://lenta.ru/news/2022/09/14/budet_dorozhe/
 	https://lenta.ru/articles/2022/09/12/narvskaya_operatsyia/
-	https://lenta.ru/news/2022/09/12/shtrafss/
-	https://lenta.ru/news/2022/09/12/stop_oper/
 	https://lenta.ru/articles/2022/09/10/koroleva/
-	https://lenta.ru/news/2022/09/12/recidivodn/
-	https://lenta.ru/news/2022/09/12/dedollar/
-	https://lenta.ru/news/2022/09/12/traur/
+	https://lenta.ru/news/2022/09/14/alabinn/
 	https://lenta.ru/articles/2022/09/10/venice22/
-	https://lenta.ru/news/2022/09/12/gina_perelom/
-	https://lenta.ru/news/2022/09/12/kadirov/
-	https://lenta.ru/news/2022/09/12/svet_ukraina/
-	https://lenta.ru/news/2022/09/12/russss/
-	https://lenta.ru/news/2022/09/12/europe/
-	https://lenta.ru/news/2022/09/12/shtyrkov/
-	https://lenta.ru/articles/2022/09/01/geo_legion/
-	https://lenta.ru/news/2022/09/12/beloruss/
-	https://lenta.ru/articles/2022/08/31/gorbachevdeath/
-	https://lenta.ru/news/2022/09/12/tk/
-	https://lenta.ru/news/2022/09/12/alekseev_died/
+	https://lenta.ru/news/2022/09/14/raskkkr/
+	https://lenta.ru/news/2022/09/14/train/
+	https://lenta.ru/news/2022/09/14/infl/
+	https://lenta.ru/articles/2022/09/14/jeremy/
+	https://lenta.ru/news/2022/09/14/commity/
+	https://lenta.ru/news/2022/09/14/lachinskiy/
+	https://lenta.ru/news/2022/09/14/yv/
+	https://lenta.ru/articles/2022/09/07/prigovor/
+	https://lenta.ru/news/2022/09/14/vzryvsizo/
+	https://lenta.ru/news/2022/09/14/death_editor/
+	https://lenta.ru/news/2022/09/14/ekonomikarazorvana/
+	https://lenta.ru/articles/2022/09/13/techno_doctors/
+	https://lenta.ru/news/2022/09/14/borods/
+	https://lenta.ru/news/2022/09/14/fil/
+	https://lenta.ru/news/2022/09/14/covid/
 	https://lenta.ru/articles/2022/09/12/holidayromance/
 	https://lenta.ru/extlink/2022/09/11/vybory/?intlnk=true
+	https://lenta.ru/news/2022/09/13/scholz_putin/
 	https://lenta.ru/rubrics/forces/
 		https://lenta.ru/rubrics/forces/police/
 			https://lenta.ru/rubrics/forces/police/2/
@@ -186,8 +195,9 @@ https://lenta.ru/
 			https://lenta.ru/rubrics/forces/crimerussia/2/
 		https://lenta.ru/rubrics/forces/investigations/
 			https://lenta.ru/rubrics/forces/investigations/2/
-	https://lenta.ru/brief/2022/09/02/uk_elections/
+	https://lenta.ru/articles/2022/09/07/novie_russkie/
 	https://lenta.ru/articles/2022/09/11/pro_eto/
+	https://lenta.ru/news/2022/09/14/minobrrr/
 	https://lenta.ru/rubrics/media/
 		https://lenta.ru/rubrics/media/factchecking/
 			https://lenta.ru/rubrics/media/factchecking/2/
@@ -205,13 +215,14 @@ https://lenta.ru/
 			https://lenta.ru/rubrics/media/internet/2/
 		https://lenta.ru/rubrics/media/soc_network/
 			https://lenta.ru/rubrics/media/soc_network/2/
-	https://lenta.ru/news/2022/09/12/art_exercises/
+	https://lenta.ru/news/2022/09/14/moscow_yerevan/
+	https://lenta.ru/news/2022/09/14/mir_turkey/
+	https://lenta.ru/news/2022/09/14/tsifra/
 	https://lenta.ru/articles/2022/09/11/elmar/
-	https://lenta.ru/news/2022/09/12/prost/
-	https://lenta.ru/news/2022/09/12/ingg/
-	https://lenta.ru/news/2022/09/12/ukrainwwol/
-	https://lenta.ru/articles/2022/09/02/zaes_all/
-	https://lenta.ru/news/2022/09/12/protiv/
+	https://lenta.ru/news/2022/09/14/fsb2/
+	https://lenta.ru/news/2022/09/14/antideprr/
+	https://lenta.ru/news/2022/09/14/obstrel_armenia/
+	https://lenta.ru/news/2022/09/14/g7_ek/
 	https://lenta.ru/rubrics/russia/
 		https://lenta.ru/rubrics/russia/moscow/
 			https://lenta.ru/rubrics/russia/moscow/2/
@@ -225,12 +236,13 @@ https://lenta.ru/
 			https://lenta.ru/rubrics/russia/accident/2/
 		https://lenta.ru/rubrics/russia/regions/
 			https://lenta.ru/rubrics/russia/regions/2/
-	https://lenta.ru/articles/2022/09/05/pivnev/
+	https://lenta.ru/articles/2022/09/05/liz_truss/
 	https://lenta.ru/info/
 		https://lenta.ru/info/posts/sales
 		https://lenta.ru/info/posts/contacts
-	https://lenta.ru/news/2022/09/12/medvedev/
-	https://lenta.ru/articles/2022/09/03/posledniy_gensek/
+	https://lenta.ru/articles/2022/09/13/godarddied/
+	https://lenta.ru/articles/2022/09/05/safronov/
+	https://lenta.ru/news/2022/09/14/daytime/
 	https://lenta.ru/rubrics/science/
 		https://lenta.ru/rubrics/science/science/
 			https://lenta.ru/rubrics/science/science/2/
@@ -254,15 +266,13 @@ https://lenta.ru/
 			https://lenta.ru/rubrics/science/gadget/2/
 		https://lenta.ru/rubrics/science/natural/
 			https://lenta.ru/rubrics/science/natural/2/
-	https://lenta.ru/news/2022/09/12/prozaracnho/
 	https://lenta.ru/parts/video/
 		https://lenta.ru/parts/video/2/
-	https://lenta.ru/news/2022/09/12/putt/
-	https://lenta.ru/articles/2022/09/01/italy_israel/
-	https://lenta.ru/news/2022/09/12/teaserrr/
-	https://lenta.ru/news/2022/09/12/otvod_h/
-	https://lenta.ru/news/2022/09/12/controlsouz/
+	https://lenta.ru/news/2022/09/13/avi_to/
+	https://lenta.ru/news/2022/09/14/elkanovv/
+	https://lenta.ru/brief/2022/09/13/armazrazb/
 	https://lenta.ru/articles/2022/09/08/elizabeth/
+	https://lenta.ru/news/2022/09/14/xi_kazakhstan/
 	https://lenta.ru/articles/2022/09/11/banda/
 	https://lenta.ru/extlink/2022/09/12/ukrnoir/?intlnk=true
 	https://lenta.ru/rubrics/economics/
@@ -282,44 +292,39 @@ https://lenta.ru/
 			https://lenta.ru/rubrics/economics/social/2/
 		https://lenta.ru/rubrics/economics/companies/
 			https://lenta.ru/rubrics/economics/companies/2/
-	https://lenta.ru/articles/2022/09/09/netusd/
-	https://lenta.ru/news/2022/09/12/krimfsb/
-	https://lenta.ru/news/2022/09/12/frg_izrail/
-	https://lenta.ru/news/2022/09/12/skepsis/
-	https://lenta.ru/news/2022/09/12/sravneniye/
-	https://lenta.ru/news/2022/09/12/dreamchaser/
-	https://lenta.ru/news/2022/09/12/bnbhj/
-	https://lenta.ru/news/2022/09/12/surr/
-	https://lenta.ru/news/2022/09/12/tankisti/
-	https://lenta.ru/news/2022/09/12/unn/
-	https://lenta.ru/news/2022/09/12/energowinter/
+	https://lenta.ru/news/2022/09/14/razgovor/
+	https://lenta.ru/articles/2022/09/13/gallipoli/
+	https://lenta.ru/news/2022/09/14/stroke/
+	https://lenta.ru/news/2022/09/14/evacuation/
+	https://lenta.ru/news/2022/09/14/chinaopinion/
+	https://lenta.ru/news/2022/09/14/zap/
+	https://lenta.ru/news/2022/09/14/perestrelka/
+	https://lenta.ru/news/2022/09/14/dicaprio/
+	https://lenta.ru/news/2022/09/14/kndr/
 	https://lenta.ru/parts/photo/
 		https://lenta.ru/parts/photo/2/
-	https://lenta.ru/news/2022/09/12/bari/
-	https://lenta.ru/news/2022/09/12/vacationaffair/
+	https://lenta.ru/news/2022/09/14/sud/
+	https://lenta.ru/articles/2022/09/14/charles/
 	https://lenta.ru/articles/2022/09/12/venicewinners/
-	https://lenta.ru/news/2022/09/12/magatezaes/
+	https://lenta.ru/news/2022/09/14/obstrel_zaes/
 	https://lenta.ru/articles/2022/09/11/kazaki/
+	https://lenta.ru/news/2022/09/14/pravda_comso/
 	https://lenta.ru/rss
-	https://lenta.ru/extlink/2022/09/09/visas_for_russians/?intlnk=true
-	https://lenta.ru/news/2022/09/12/kharkov/
-	https://lenta.ru/news/2022/09/12/kuraga/
+	https://lenta.ru/news/2022/09/14/eu_corruption/
+	https://lenta.ru/news/2022/09/14/benchmark/
+	https://lenta.ru/news/2022/09/14/ganchev/
 	https://lenta.ru/parts/text/
 		https://lenta.ru/parts/text/2/
 	https://lenta.ru/articles/2022/09/10/ankara_athens/
-	https://lenta.ru/news/2022/09/12/skid/
 	https://lenta.ru/articles/2022/09/11/climate_protest/
+	https://lenta.ru/news/2022/09/14/ek_budapest/
 	https://lenta.ru/articles/2022/09/08/elizabeth_ii/
-	https://lenta.ru/articles/2022/09/04/morris/
-	https://lenta.ru/news/2022/09/12/blin/
-	https://lenta.ru/news/2022/09/12/red_line/
-	https://lenta.ru/news/2022/09/12/rosgvshron/
-	https://lenta.ru/news/2022/09/12/teensandknifs/
+	https://lenta.ru/news/2022/09/14/vladik2/
 	https://lenta.ru/parts/pressreleases/
 		https://lenta.ru/parts/pressreleases/2/
-	https://lenta.ru/news/2022/09/12/piter2/
-	https://lenta.ru/news/2022/09/12/pvo_belgorod/
-	https://lenta.ru/news/2022/09/12/odejda-osen/
+	https://lenta.ru/news/2022/09/14/taygaa/
+	https://lenta.ru/articles/2022/09/13/fsb/
+	https://lenta.ru/news/2022/09/14/78425/
 	https://lenta.ru/my/dashboard
 	https://lenta.ru/rubrics/travel/
 		https://lenta.ru/rubrics/travel/events/
@@ -333,6 +338,4 @@ https://lenta.ru/
 		https://lenta.ru/rubrics/travel/opinion/
 			https://lenta.ru/rubrics/travel/opinion/2/
 	https://lenta.ru/brief/2022/09/12/blackout_urkr/
-	https://lenta.ru/news/2022/09/12/lizz_shors/
-	https://lenta.ru/news/2022/09/12/fin_dopomoga/
-	https://lenta.ru/news/2022/09/12/svet/
+	https://lenta.ru/news/2022/09/14/laxatives/

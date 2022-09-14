@@ -23,7 +23,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-//        long start = System.currentTimeMillis();
         try {
 
             createDirectoryAndFile(SITE_MAP_PATH);
@@ -35,8 +34,6 @@ public class Main {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-//        System.out.println(System.currentTimeMillis() - start);
 
     }
 
